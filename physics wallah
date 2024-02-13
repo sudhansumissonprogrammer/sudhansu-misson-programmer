@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Physics" << std::endl; // Output "Physics" and move to the next line
+    std::cout << "Wallah" << std::endl;  // Output "Wallah" and move to the next line
+    return 0;
+}
